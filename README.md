@@ -10,7 +10,7 @@ Error Logging: Tracks and logs download failures for easy troubleshooting.
 # Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/[YourUsername]/BV-BRC-Genome-Downloader.git
+git clone https://github.com/vsmicrogenomics/BV-BRC-Genome-Downloader.git
 Navigate to the cloned repository:
 cd BV-BRC-Genome-Downloader
 Make the script executable:
