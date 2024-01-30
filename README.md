@@ -1,6 +1,6 @@
 # BV-BRC-Genome-Downloader
 # Description
-BV-BRC-Genome-Downloader is a powerful command-line utility designed to facilitate the bulk downloading of genomic data files from the Bacterial and Viral Bioinformatics Resource Center (BV-BRC). It supports various file types, including FASTA sequences, annotation files, and more. This tool is built to assist researchers and bioinformaticians in efficiently managing and retrieving genomic data for their projects.
+BV-BRC-Genome-Downloader is a command-line utility designed to facilitate the bulk downloading of genomic data files from the Bacterial and Viral Bioinformatics Resource Center (BV-BRC). It supports various file types, including FASTA sequences, annotation files, and more. This tool is built to assist researchers and bioinformaticians in efficiently managing and retrieving genomic data for their projects.
 
 # Features
 Multiple File Types: Supports downloading of a wide range of genomic data file types.
