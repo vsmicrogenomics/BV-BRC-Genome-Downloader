@@ -25,14 +25,23 @@ Run the script, specifying the download directory and the desired file extension
 
 If any downloads fail, review the failed_downloads.log file in the specified download directory for details.
 Supported File Extensions
+
 .fna - FASTA contig sequences
+
 .faa - FASTA protein sequence files
+
 .features.tab - Tab-delimited genomic features
+
 .ffn - FASTA nucleotide sequences for genomic features
+
 .frn - FASTA nucleotide sequences for RNAs
+
 .gff - Genome annotations in GFF format
+
 .pathway.tab - Metabolic pathway assignments in tab-delimited format
+
 .spgene.tab - Specialty gene assignments in tab-delimited format
+
 .subsystem.tab - Subsystem assignments in tab-delimited format
 
 # Troubleshooting
