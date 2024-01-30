@@ -24,6 +24,7 @@ Run the script, specifying the download directory and the desired file extension
 ./get_bvbrc_genomes.sh /path/to/download/directory .fna .faa .gff
 
 If any downloads fail, review the failed_downloads.log file in the specified download directory for details.
+
 Supported File Extensions
 
 .fna - FASTA contig sequences
