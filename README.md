@@ -1,4 +1,5 @@
 # BV-BRC-Genome-Downloader
+# Note: This script does not support viral genomes. Please refer to the script extract_bvbrc_viral_data.py in my repository for handling viral genomes.
 # Description
 BV-BRC-Genome-Downloader is a command-line utility designed to facilitate the bulk downloading of genomic data files from the Bacterial and Viral Bioinformatics Resource Center (BV-BRC). It supports various file types, including FASTA sequences, annotation files, and more. This tool is built to assist researchers and bioinformaticians in efficiently managing and retrieving genomic data for their projects.
 
@@ -52,5 +53,5 @@ Refer to the failed_downloads.log file for information on any files that failed 
 We would like to extend our sincere gratitude to the Bacterial and Viral Bioinformatics Resource Center (BV-BRC), formerly known as PATRIC, for making their comprehensive database of bacterial and viral genomic data accessible to the research community.
 
 # Citation
-If you are using the pan_genome_analysis.py script for your research, please consider citing it as follows:
+If you are using this script for your research, please consider citing it as follows:
 Sharma, V. (2024). get_bvbrc_genomes.sh [Shell script]. Retrieved from https://github.com/vsmicrogenomics/BV-BRC-Genome-Downloader
